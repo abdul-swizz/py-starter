@@ -1,2 +1,2 @@
 # py-starter
-Calculator code using python for my learning purpose
+All my python code from when i start learning
